@@ -1,0 +1,16 @@
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+E:\Git Projekty\Backend\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache

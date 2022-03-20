@@ -1,0 +1,16 @@
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\LocalAndGlobalTime.exe
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\LocalAndGlobalTime.deps.json
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\LocalAndGlobalTime.runtimeconfig.json
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\LocalAndGlobalTime.runtimeconfig.dev.json
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\LocalAndGlobalTime.dll
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\ref\LocalAndGlobalTime.dll
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\bin\Debug\net5.0\LocalAndGlobalTime.pdb
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.csproj.AssemblyReference.cache
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.AssemblyInfoInputs.cache
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.AssemblyInfo.cs
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.csproj.CoreCompileInputs.cache
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.dll
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\ref\LocalAndGlobalTime.dll
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.pdb
+E:\Git Projekty\Backend\LocalAndGlobalTime\LocalAndGlobalTime\obj\Debug\net5.0\LocalAndGlobalTime.genruntimeconfig.cache

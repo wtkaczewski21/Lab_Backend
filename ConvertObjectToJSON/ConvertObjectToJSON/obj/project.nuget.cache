@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zn1x/kaoqtOE1lg7MYgO2ZmxlWL1yNkp3SCSODMt0FXJ4EnagTpQGMmLv5gEOtKaWr9+wRTsiLkDtgdPra530w==",
+  "success": true,
+  "projectFilePath": "E:\\Git Projekty\\Backend\\ConvertObjectToJSON\\ConvertObjectToJSON\\ConvertObjectToJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wojta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

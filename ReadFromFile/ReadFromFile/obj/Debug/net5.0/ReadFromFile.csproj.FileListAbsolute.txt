@@ -1,0 +1,16 @@
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.exe
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.deps.json
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.runtimeconfig.json
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.runtimeconfig.dev.json
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.dll
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ref\ReadFromFile.dll
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\bin\Debug\net5.0\ReadFromFile.pdb
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.csproj.AssemblyReference.cache
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.AssemblyInfoInputs.cache
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.AssemblyInfo.cs
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.csproj.CoreCompileInputs.cache
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.dll
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ref\ReadFromFile.dll
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.pdb
+E:\Git Projekty\Backend\ReadFromFile\ReadFromFile\obj\Debug\net5.0\ReadFromFile.genruntimeconfig.cache

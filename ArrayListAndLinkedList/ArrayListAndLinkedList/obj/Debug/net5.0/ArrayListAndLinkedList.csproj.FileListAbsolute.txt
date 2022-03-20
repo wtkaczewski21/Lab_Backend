@@ -1,0 +1,16 @@
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ArrayListAndLinkedList.exe
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ArrayListAndLinkedList.deps.json
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ArrayListAndLinkedList.runtimeconfig.json
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ArrayListAndLinkedList.runtimeconfig.dev.json
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ArrayListAndLinkedList.dll
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ref\ArrayListAndLinkedList.dll
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\bin\Debug\net5.0\ArrayListAndLinkedList.pdb
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.csproj.AssemblyReference.cache
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.AssemblyInfoInputs.cache
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.AssemblyInfo.cs
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.csproj.CoreCompileInputs.cache
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.dll
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ref\ArrayListAndLinkedList.dll
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.pdb
+E:\Git Projekty\Backend\ArrayListAndLinkedList\ArrayListAndLinkedList\obj\Debug\net5.0\ArrayListAndLinkedList.genruntimeconfig.cache

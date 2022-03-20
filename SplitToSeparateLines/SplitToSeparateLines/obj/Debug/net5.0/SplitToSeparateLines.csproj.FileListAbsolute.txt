@@ -1,0 +1,16 @@
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\SplitToSeparateLines.exe
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\SplitToSeparateLines.deps.json
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\SplitToSeparateLines.runtimeconfig.json
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\SplitToSeparateLines.runtimeconfig.dev.json
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\SplitToSeparateLines.dll
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\ref\SplitToSeparateLines.dll
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\bin\Debug\net5.0\SplitToSeparateLines.pdb
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.csproj.AssemblyReference.cache
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.AssemblyInfoInputs.cache
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.AssemblyInfo.cs
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.csproj.CoreCompileInputs.cache
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.dll
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\ref\SplitToSeparateLines.dll
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.pdb
+E:\Git Projekty\Backend\SplitToSeparateLines\SplitToSeparateLines\obj\Debug\net5.0\SplitToSeparateLines.genruntimeconfig.cache

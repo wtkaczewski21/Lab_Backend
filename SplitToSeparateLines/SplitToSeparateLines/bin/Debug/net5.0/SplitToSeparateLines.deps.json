@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SplitToSeparateLines/1.0.0": {
+        "runtime": {
+          "SplitToSeparateLines.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SplitToSeparateLines/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

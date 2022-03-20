@@ -1,0 +1,16 @@
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\SaveToFile.exe
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\SaveToFile.deps.json
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\SaveToFile.runtimeconfig.json
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\SaveToFile.runtimeconfig.dev.json
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\SaveToFile.dll
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\ref\SaveToFile.dll
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\bin\Debug\net5.0\SaveToFile.pdb
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.csproj.AssemblyReference.cache
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.AssemblyInfoInputs.cache
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.AssemblyInfo.cs
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.csproj.CoreCompileInputs.cache
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.dll
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\ref\SaveToFile.dll
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.pdb
+E:\Git Projekty\Backend\SaveToFile\SaveToFile\obj\Debug\net5.0\SaveToFile.genruntimeconfig.cache

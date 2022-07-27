@@ -1,2 +1,2 @@
 # Lab_Backend
-Academy exercises
+Univeristy exercises
